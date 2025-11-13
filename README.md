@@ -45,7 +45,6 @@ This project performs advanced customer analytics including:
 - R²: 0.713
 
 ### 4. Customer Lifetime Value (CLV)
-- 5-year CLV calculation
 - Discounted cash flow approach
 - Group-level CLV comparison
 
